@@ -2,8 +2,6 @@
 
 ![](https://github.com/Shaikh-areeb/Netflix_Analysis-SQL/blob/main/Netflix%20logo.jpg)
 
----
-
 ## Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
@@ -16,7 +14,6 @@
 The data for this project is sourced from the Kaggle dataset:
 
 Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
----
 
 ## Business Problem Questions 
 
@@ -50,7 +47,6 @@ Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-s
 
 15. Categorize the content based on the presence of the keywords 'kill' and 'violence in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. 
     Count how many items fall into each category
----
 
 ## Findings and Conclusion
 
