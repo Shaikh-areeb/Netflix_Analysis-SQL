@@ -2,21 +2,24 @@
 
 ![](https://github.com/Shaikh-areeb/Netflix_Analysis-SQL/blob/main/Netflix%20logo.jpg)
 
-## Objectives
 ---
+
+## Objectives
+
 - Analyze the distribution of content types (movies vs TV shows).
 - Identify the most common ratings for movies and TV shows.
 - List and analyze content based on release years, countries, and durations.
 - Explore and categorize content based on specific criteria and keywords.
 
 ## Dataset
----
+
 The data for this project is sourced from the Kaggle dataset:
 
 Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+---
 
 ## Business Problem Questions 
----
+
 1. Count the number of Movies vs TV Shows
 
 2. Find the most common rating for movies and TV shows
@@ -47,9 +50,9 @@ Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-s
 
 15. Categorize the content based on the presence of the keywords 'kill' and 'violence in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. 
     Count how many items fall into each category
+---
 
 ## Findings and Conclusion
----
 
 - Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
